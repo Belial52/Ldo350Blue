@@ -11,8 +11,8 @@
             "hub_loaded": true,
             "runout_lane": "NONE",
             "map": "T0",
-            "filament_status": "Ready",
-            "filament_status_led": "#00cc00"
+            "filament_status": "In Tool",
+            "filament_status_led": "#0000ff"
         },
         "leg2": {
             "spool_id": "",
