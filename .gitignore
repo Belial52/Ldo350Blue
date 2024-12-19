@@ -2,3 +2,4 @@
  adxl_results/vibrations/*.tar.gz
  AFC.*/
  AFC-*/
+ printer-*.cfg
