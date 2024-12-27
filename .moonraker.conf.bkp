@@ -106,3 +106,7 @@ origin = https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging.git
 managed_services = klipper
 primary_branch = main
 
+[spoolman]
+server = http://10.10.0.35:7912
+sync_rate = 5
+
