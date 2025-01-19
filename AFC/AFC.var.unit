@@ -1,24 +1,25 @@
 {
     "Turtle_1": {
         "leg1": {
-            "spool_id": "",
-            "material": "",
-            "color": "",
-            "weight": "",
+            "spool_id": "2",
+            "material": "ABS",
+            "color": "#101820",
+            "weight": 578.4480739271198,
             "command": null,
             "index": 1,
             "tool_loaded": false,
             "hub_loaded": false,
             "runout_lane": "NONE",
             "map": "T0",
-            "filament_status": "Not Ready",
-            "filament_status_led": "#ff0000"
+            "filament_status": "Ready",
+            "filament_status_led": "#00cc00",
+            "status": ""
         },
         "leg2": {
-            "spool_id": "",
-            "material": "",
-            "color": "",
-            "weight": "",
+            "spool_id": "7",
+            "material": "ABS",
+            "color": "#FF6A13",
+            "weight": 229.25179117639868,
             "command": null,
             "index": 2,
             "tool_loaded": false,
@@ -26,13 +27,14 @@
             "runout_lane": "NONE",
             "map": "T1",
             "filament_status": "Not Ready",
-            "filament_status_led": "#ff0000"
+            "filament_status_led": "#ff0000",
+            "status": ""
         },
         "leg3": {
-            "spool_id": "",
-            "material": "",
-            "color": "",
-            "weight": "",
+            "spool_id": "6",
+            "material": "ABS",
+            "color": "#1aff00",
+            "weight": 962.0,
             "command": null,
             "index": 3,
             "tool_loaded": false,
@@ -40,29 +42,28 @@
             "runout_lane": "NONE",
             "map": "T2",
             "filament_status": "Not Ready",
-            "filament_status_led": "#ff0000"
+            "filament_status_led": "#ff0000",
+            "status": ""
         },
         "leg4": {
             "spool_id": "",
             "material": "",
             "color": "",
             "weight": "",
-            "command": null,
+            "runout_lane": "NONE",
+            "map": "T3",
             "index": 4,
             "tool_loaded": false,
             "hub_loaded": false,
-            "runout_lane": "NONE",
-            "map": "T3",
-            "filament_status": "Not Ready",
-            "filament_status_led": "#ff0000"
+            "status": ""
         }
     },
     "Turtle_2": {
         "leg5": {
-            "spool_id": "",
-            "material": "",
-            "color": "",
-            "weight": "",
+            "spool_id": "9",
+            "material": "ABS",
+            "color": "#6C6D71",
+            "weight": 593.0,
             "command": null,
             "index": 1,
             "tool_loaded": false,
@@ -70,27 +71,29 @@
             "runout_lane": "NONE",
             "map": "T4",
             "filament_status": "Not Ready",
-            "filament_status_led": "#ff0000"
+            "filament_status_led": "#ff0000",
+            "status": ""
         },
         "leg6": {
-            "spool_id": "",
-            "material": "",
-            "color": "",
-            "weight": "",
+            "spool_id": "10",
+            "material": "ABS",
+            "color": "#002677",
+            "weight": 825.1813965390822,
             "command": null,
             "index": 2,
             "tool_loaded": false,
-            "hub_loaded": false,
+            "hub_loaded": true,
             "runout_lane": "NONE",
             "map": "T5",
             "filament_status": "Not Ready",
-            "filament_status_led": "#ff0000"
+            "filament_status_led": "#ff0000",
+            "status": null
         },
         "leg7": {
-            "spool_id": "",
-            "material": "",
-            "color": "",
-            "weight": "",
+            "spool_id": "12",
+            "material": "ABS",
+            "color": "#ff1c1c",
+            "weight": 801.0,
             "command": null,
             "index": 3,
             "tool_loaded": false,
@@ -98,13 +101,14 @@
             "runout_lane": "NONE",
             "map": "T6",
             "filament_status": "Not Ready",
-            "filament_status_led": "#ff0000"
+            "filament_status_led": "#ff0000",
+            "status": ""
         },
         "leg8": {
-            "spool_id": "",
-            "material": "",
-            "color": "",
-            "weight": "",
+            "spool_id": "11",
+            "material": "ABS",
+            "color": "#ffffff",
+            "weight": 981.0,
             "command": null,
             "index": 4,
             "tool_loaded": false,
@@ -112,61 +116,66 @@
             "runout_lane": "NONE",
             "map": "T7",
             "filament_status": "Not Ready",
-            "filament_status_led": "#ff0000"
+            "filament_status_led": "#ff0000",
+            "status": ""
         }
     },
     "Turtle_3": {
         "leg9": {
-            "spool_id": "",
-            "material": "",
-            "color": "",
-            "weight": "",
+            "spool_id": "17",
+            "material": "ASA",
+            "color": "#775C50",
+            "weight": 1000.0,
             "runout_lane": "NONE",
             "map": "T8",
             "index": 1,
             "tool_loaded": false,
             "hub_loaded": false,
             "filament_status": "Prep",
-            "filament_status_led": "#ffffff"
+            "filament_status_led": "#ffffff",
+            "status": ""
         },
         "leg10": {
-            "spool_id": "",
-            "material": "",
-            "color": "",
-            "weight": "",
+            "spool_id": "16",
+            "material": "ABS",
+            "color": "#1d69e4",
+            "weight": 818.278678226297,
             "runout_lane": "NONE",
             "map": "T9",
             "index": 2,
             "tool_loaded": false,
-            "hub_loaded": false,
+            "hub_loaded": true,
             "filament_status": "Prep",
-            "filament_status_led": "#ffffff"
+            "filament_status_led": "#ffffff",
+            "status": null
         },
         "leg11": {
-            "spool_id": "",
-            "material": "",
-            "color": "",
-            "weight": "",
+            "spool_id": "15",
+            "material": "ABS",
+            "color": "#ffffff",
+            "weight": 968.0,
             "runout_lane": "NONE",
             "map": "T10",
             "index": 3,
             "tool_loaded": false,
             "hub_loaded": false,
             "filament_status": "Prep",
-            "filament_status_led": "#ffffff"
+            "filament_status_led": "#ffffff",
+            "status": ""
         },
         "leg12": {
-            "spool_id": "",
-            "material": "",
-            "color": "",
-            "weight": "",
+            "spool_id": "14",
+            "material": "ABS",
+            "color": "#0334a7",
+            "weight": 758.0,
             "runout_lane": "NONE",
             "map": "T11",
             "index": 4,
             "tool_loaded": false,
             "hub_loaded": false,
             "filament_status": "Prep",
-            "filament_status_led": "#ffffff"
+            "filament_status_led": "#ffffff",
+            "status": ""
         }
     }
 }
